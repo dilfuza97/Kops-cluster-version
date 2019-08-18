@@ -16,6 +16,9 @@
 5. kops update cluster --yes   (apply)
 
 
+kops rolling-update cluster   --yes
+
+
 
 6. Scale out  ASG   from 3-6  
 
