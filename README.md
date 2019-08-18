@@ -16,7 +16,7 @@
 5. kops update cluster --yes   (apply)
 
 
-kops rolling-update cluster   --yes
+kops rolling-update cluster  --cloudonly --yes
 
 
 
