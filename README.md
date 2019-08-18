@@ -20,7 +20,7 @@ kops rolling-update cluster  --cloudonly --yes
 
 
 
-6. Scale out  ASG   from 3-6  
+6. Scale out  Auto scaling group   from 3-6  
 
 
 
