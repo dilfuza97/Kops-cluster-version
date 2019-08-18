@@ -1,5 +1,5 @@
 # qa-dilfuza-cluster
-1. export  KOPS_STATE_STORE
+1. export  KOPS_STATE_STORE=s3://bucket_name
 
 
 2. kops edit cluster
